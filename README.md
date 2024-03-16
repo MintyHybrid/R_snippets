@@ -10,3 +10,4 @@ Just some code snippets (as .Rmds) that might come in handy sometime to someone 
 
 
 Docs are rubbish... sorry.
+A line I wrote on my local computer  
